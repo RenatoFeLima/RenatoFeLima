@@ -5,7 +5,7 @@
 - 📫 How to reach me: renatoferreira37@yahoo.com
 - 😄 Pronouns: he/him
 
-## Ferramentas e Tecnologias
+## Tools and Techs:
 
 <div style="display: flex; justify-content: space-around;">
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
@@ -14,7 +14,7 @@
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>
 </div>
 
-## Contatos
+## Contacts:
 <div>
   <a href="https://www.linkedin.com/in/renato-ferreira-/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
