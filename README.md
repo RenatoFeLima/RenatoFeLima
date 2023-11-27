@@ -1,16 +1,11 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Renato!
 
-<!--
-**RenatoFeLima/RenatoFeLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Java OO and SQL
 - 📫 How to reach me: renatoferreira37@yahoo.com
 - 😄 Pronouns: he/him
 
-## Ferramentas e Tecnologias
+## Tools and Technologies:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
